@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.35fece2c.css",
-    "main.js": "/static/js/main.1ecf5ef6.js",
-    "static/js/787.d45bcd11.chunk.js": "/static/js/787.d45bcd11.chunk.js",
-    "static/media/Untitled2.usdz": "/static/media/Untitled2.1f1ab8063994d98cd14c.usdz",
-    "static/media/AR.gif": "/static/media/AR.3973afaf73ecb91db055.gif",
-    "static/media/azure-gif.gif": "/static/media/azure-gif.c669f31cd530bd14c372.gif",
-    "static/media/iot.GIF": "/static/media/iot.886c9d3fe8817c480c23.GIF",
-    "static/media/AR1.jpeg": "/static/media/AR1.58def6dce8e74c8d72a5.jpeg",
-    "static/media/AR2.jpeg": "/static/media/AR2.ab50c016cb6cf8daab97.jpeg",
-    "static/media/covid19.jpg": "/static/media/covid19.083e2457cac335192b55.jpg",
-    "static/media/iotLive.gif": "/static/media/iotLive.31275f8e2fbc9862a502.gif",
-    "static/media/UOK_LOGO.png": "/static/media/UOK_LOGO.64fcbfe2bc7da80ee012.png",
-    "index.html": "/index.html",
-    "main.35fece2c.css.map": "/static/css/main.35fece2c.css.map",
-    "main.1ecf5ef6.js.map": "/static/js/main.1ecf5ef6.js.map",
-    "787.d45bcd11.chunk.js.map": "/static/js/787.d45bcd11.chunk.js.map"
+    "main.css": "/UAENDUKF/static/css/main.35fece2c.css",
+    "main.js": "/UAENDUKF/static/js/main.ef282f0d.js",
+    "static/js/787.d45bcd11.chunk.js": "/UAENDUKF/static/js/787.d45bcd11.chunk.js",
+    "static/media/Untitled2.usdz": "/UAENDUKF/static/media/Untitled2.1f1ab8063994d98cd14c.usdz",
+    "static/media/AR.gif": "/UAENDUKF/static/media/AR.3973afaf73ecb91db055.gif",
+    "static/media/azure-gif.gif": "/UAENDUKF/static/media/azure-gif.c669f31cd530bd14c372.gif",
+    "static/media/iot.GIF": "/UAENDUKF/static/media/iot.886c9d3fe8817c480c23.GIF",
+    "static/media/AR1.jpeg": "/UAENDUKF/static/media/AR1.58def6dce8e74c8d72a5.jpeg",
+    "static/media/AR2.jpeg": "/UAENDUKF/static/media/AR2.ab50c016cb6cf8daab97.jpeg",
+    "static/media/covid19.jpg": "/UAENDUKF/static/media/covid19.083e2457cac335192b55.jpg",
+    "static/media/iotLive.gif": "/UAENDUKF/static/media/iotLive.31275f8e2fbc9862a502.gif",
+    "static/media/UOK_LOGO.png": "/UAENDUKF/static/media/UOK_LOGO.64fcbfe2bc7da80ee012.png",
+    "index.html": "/UAENDUKF/index.html",
+    "main.35fece2c.css.map": "/UAENDUKF/static/css/main.35fece2c.css.map",
+    "main.ef282f0d.js.map": "/UAENDUKF/static/js/main.ef282f0d.js.map",
+    "787.d45bcd11.chunk.js.map": "/UAENDUKF/static/js/787.d45bcd11.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.35fece2c.css",
-    "static/js/main.1ecf5ef6.js"
+    "static/js/main.ef282f0d.js"
   ]
 }
