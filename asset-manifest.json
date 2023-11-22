@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/UAENDUKF/static/css/main.35fece2c.css",
-    "main.js": "/UAENDUKF/static/js/main.ef282f0d.js",
+    "main.js": "/UAENDUKF/static/js/main.28be0300.js",
     "static/js/787.d45bcd11.chunk.js": "/UAENDUKF/static/js/787.d45bcd11.chunk.js",
     "static/media/Untitled2.usdz": "/UAENDUKF/static/media/Untitled2.1f1ab8063994d98cd14c.usdz",
     "static/media/AR.gif": "/UAENDUKF/static/media/AR.3973afaf73ecb91db055.gif",
@@ -14,11 +14,11 @@
     "static/media/UOK_LOGO.png": "/UAENDUKF/static/media/UOK_LOGO.64fcbfe2bc7da80ee012.png",
     "index.html": "/UAENDUKF/index.html",
     "main.35fece2c.css.map": "/UAENDUKF/static/css/main.35fece2c.css.map",
-    "main.ef282f0d.js.map": "/UAENDUKF/static/js/main.ef282f0d.js.map",
+    "main.28be0300.js.map": "/UAENDUKF/static/js/main.28be0300.js.map",
     "787.d45bcd11.chunk.js.map": "/UAENDUKF/static/js/787.d45bcd11.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.35fece2c.css",
-    "static/js/main.ef282f0d.js"
+    "static/js/main.28be0300.js"
   ]
 }
